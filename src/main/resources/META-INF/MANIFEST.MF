@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: libs/hamcrest-core-1.1.jar libs/junit-4.10.jar libs/json-s
+ imple-1.1.1.jar
+Main-Class: unimelb.bitbox.Peer
+
